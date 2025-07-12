@@ -4,8 +4,8 @@
 A **Learning Analytics Dashboard** built using **Amazon QuickSight**, powered by AWS services, to visualize student progress, task completion, and engagement insights.
 
 🎥 **Project Video Demo:**  
-[[Watch the video](https://drive.google.com/file/d/1cWXmEbBKLvEhAJ1H1FhPROjg0CuUu_f-/view?usp=drive_link)  
-> *(Click the image above to watch the video)*
+[Watch the video](https://drive.google.com/file/d/1cWXmEbBKLvEhAJ1H1FhPROjg0CuUu_f-/view?usp=drive_link)  
+> *(Click the link above to watch the video)*
 
 ---
 
@@ -45,8 +45,7 @@ We plan to build a **simple frontend webpage** using **React or HTML/CSS** that 
 👩‍💻 **Anugna Reddy Mule**  
 3rd Year B.Tech – Information Technology  
 📍 DVR & HS MIC College of Technology  
-🔗 LinkedIn: []  
-📧 Email: []
+🔗 LinkedIn: [www.linkedin.com/in/anugna-reddy-mule-aba40a28b]  
+
 =======
 
->>>>>>> 331c56d4db7d707cef61175e2e027c435aa893db
