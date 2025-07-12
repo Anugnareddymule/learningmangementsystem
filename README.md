@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Learning Management System in AWS
 
 A **Learning Analytics Dashboard** built using **Amazon QuickSight**, powered by AWS services, to visualize student progress, task completion, and engagement insights.
@@ -46,3 +47,6 @@ We plan to build a **simple frontend webpage** using **React or HTML/CSS** that 
 📍 DVR & HS MIC College of Technology  
 🔗 LinkedIn: []  
 📧 Email: []
+=======
+
+>>>>>>> 331c56d4db7d707cef61175e2e027c435aa893db
