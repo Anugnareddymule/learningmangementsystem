@@ -4,7 +4,7 @@
 A **Learning Analytics Dashboard** built using **Amazon QuickSight**, powered by AWS services, to visualize student progress, task completion, and engagement insights.
 
 🎥 **Project Video Demo:**  
-[![Watch the video](https://drive.google.com/file/d/1cWXmEbBKLvEhAJ1H1FhPROjg0CuUu_f-/view?usp=drive_link)  
+[[Watch the video](https://drive.google.com/file/d/1cWXmEbBKLvEhAJ1H1FhPROjg0CuUu_f-/view?usp=drive_link)  
 > *(Click the image above to watch the video)*
 
 ---
