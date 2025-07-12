@@ -1,0 +1,90 @@
+{
+  "TaskID": { "S": "1" },
+  "Category": { "S": "Education" },
+  "TaskName": { "S": "Watch Introduction to Cloud Computing" },
+  "CompletionStatus": { "BOOL": true },
+  "CreatedDate": { "S": "2025-01-15T10:00:00Z" },
+  "CompletionDate": { "S": "2025-01-15T11:00:00Z" },
+  "CourseAccessed": { "BOOL": true },
+  "VideoWatched": { "N": "1" },
+  "ProgressPercentage": { "N": "10" }
+}
+{
+  "TaskID": { "S": "2" },
+  "Category": { "S": "Quiz" },
+  "TaskName": { "S": "Attempt IAM Basics Quiz" },
+  "CompletionStatus": { "BOOL": true },
+  "CreatedDate": { "S": "2025-01-16T09:00:00Z" },
+  "CompletionDate": { "S": "2025-01-16T09:30:00Z" },
+  "QuizAttempted": { "BOOL": true },
+  "QuizScore": { "N": "85" },
+  "Passed": { "BOOL": true }
+}
+{
+  "TaskID": { "S": "3" },
+  "Category": { "S": "Material" },
+  "TaskName": { "S": "Download AWS Security Best Practices PDF" },
+  "CompletionStatus": { "BOOL": true },
+  "CreatedDate": { "S": "2025-01-17T13:00:00Z" },
+  "CompletionDate": { "S": "2025-01-17T13:05:00Z" },
+  "MaterialDownloaded": { "BOOL": true },
+  "CourseAccessed": { "BOOL": true }
+}
+{
+  "TaskID": { "S": "4" },
+  "Category": { "S": "Assignment" },
+  "TaskName": { "S": "Submit Reflection on AWS Global Infrastructure" },
+  "CompletionStatus": { "BOOL": true },
+  "CreatedDate": { "S": "2025-01-18T15:00:00Z" },
+  "CompletionDate": { "S": "2025-01-19T10:00:00Z" },
+  "AssignmentSubmitted": { "BOOL": true },
+  "WordCount": { "N": "350" }
+}
+{
+  "TaskID": { "S": "5" },
+  "Category": { "S": "Social" },
+  "TaskName": { "S": "Participate in Cloud Fundamentals Discussion" },
+  "CompletionStatus": { "BOOL": true },
+  "CreatedDate": { "S": "2025-01-19T08:00:00Z" },
+  "CompletionDate": { "S": "2025-01-19T08:45:00Z" },
+  "LMSPeerDiscussion": { "BOOL": true },
+  "MessagesPosted": { "N": "2" }
+}
+{
+  "TaskID": { "S": "6" },
+  "Category": { "S": "Education" },
+  "TaskName": { "S": "Complete AWS Certified Cloud Practitioner course" },
+  "CompletionStatus": { "BOOL": false },
+  "CreatedDate": { "S": "2025-01-20T14:00:00Z" },
+  "CourseAccessed": { "BOOL": true },
+  "QuizAttempted": { "BOOL": false },
+  "VideoWatched": { "N": "3" },
+  "ProgressPercentage": { "N": "45" }
+}
+{
+  "TaskID": { "S": "7" },
+  "Category": { "S": "Home" },
+  "TaskName": { "S": "Deep clean the kitchen (because AI can’t do that yet)" },
+  "CompletionStatus": { "BOOL": true },
+  "CompletionDate": { "S": "2025-01-21T10:30:00Z" },
+  "CreatedDate": { "S": "2025-01-18T09:00:00Z" },
+ "CompletionDate": { "S": "2025-01-16T09:30:00Z" },
+  "QuizAttempted": { "BOOL": true },
+  "QuizScore": { "N": "85" },
+  "Passed": { "BOOL": true }
+
+}
+{
+  "TaskID": { "S": "9" },
+  "Category": { "S": "programming" },
+  "TaskName": { "S": "Ping an old friend IRL" },
+  "CompletionStatus": { "BOOL": false },
+  "CompletionDate": { "S": "2025-01-22T17:45:00Z" },
+  "CreatedDate": { "S": "2025-01-21T12:15:00Z" },
+  "LMSPeerDiscussion": { "BOOL": true },
+ "CompletionDate": { "S": "2025-01-16T09:30:00Z" },
+  "QuizAttempted": { "BOOL": false },
+  "QuizScore": { "N": "100" },
+  "Passed": { "BOOL": false }
+
+}
